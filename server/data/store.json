@@ -1,0 +1,889 @@
+{
+  "events": [
+    {
+      "_id": "evt_mv4yr50no10z",
+      "registeredCount": 1,
+      "status": "Upcoming",
+      "isUrgent": false,
+      "isFeatured": false,
+      "title": "FSD  Hackthon",
+      "description": "Full-Stack Development Hackathon volunteer mentoring and coordination at SVECW.",
+      "category": "Education & Mentoring",
+      "organizer": {
+        "name": "Akshaya",
+        "club": "IT",
+        "email": "akshaya@svecw.edu.in",
+        "phone": "+91 98400 00000",
+        "avatar": "/avatars/divya.jpg"
+      },
+      "date": "2026-11-25",
+      "time": "09:00 AM - 08:00PM",
+      "location": {
+        "venue": "Campus Student Activity Centre",
+        "landmark": "Campus Centre, SVECW"
+      },
+      "hoursCredit": 8,
+      "requiredVolunteers": 15,
+      "skillsRequired": [
+        "Teamwork",
+        "Communication",
+        "Organization"
+      ],
+      "bannerImage": "https://images.unsplash.com/photo-1559027615-cd4628902d4a?w=1000&auto=format&fit=crop&q=80",
+      "createdAt": "2026-10-12T08:01:40.391Z"
+    },
+    {
+      "_id": "670a1a01b5f1010101010101",
+      "title": "Annual Mega Blood Donation & Platelet Drive",
+      "description": "Join hands with Red Cross Youth Chapter and the Campus Hospital to organize our university's largest annual blood drive. Volunteers will manage donor registration, vitals triage assistance, refreshments, donor care, and post-donation token distribution. Every pint saves up to three lives!",
+      "category": "Health & Blood Donation",
+      "organizer": {
+        "name": "Dr. Arvind Swaminathan & NSS Wing",
+        "club": "Youth Red Cross & NSS Unit",
+        "email": "redcross@svecw.edu.in",
+        "phone": "+91 98450 12345",
+        "avatar": "/avatars/ramesh.jpg"
+      },
+      "date": "2026-10-24",
+      "time": "08:30 AM - 03:00 PM",
+      "location": {
+        "venue": "Main Auditorium Hall A & Campus Medical Centre",
+        "landmark": "Opposite Admin Block, SVECW Campus",
+        "isOnline": false
+      },
+      "hoursCredit": 6,
+      "requiredVolunteers": 45,
+      "registeredCount": 38,
+      "skillsRequired": [
+        "Donor Care",
+        "Queue Coordination",
+        "First Aid Support",
+        "Hospitality"
+      ],
+      "benefits": [
+        "Official Red Cross Service Certificate",
+        "6 Service Hours",
+        "Breakfast & Lunch Provided",
+        "Lifesaver Lapel Pin"
+      ],
+      "status": "Upcoming",
+      "bannerImage": "https://images.unsplash.com/photo-1615461066841-6116e61058f4?w=1000&auto=format&fit=crop&q=80",
+      "isUrgent": true,
+      "isFeatured": true
+    },
+    {
+      "_id": "670a1a01b5f1010101010102",
+      "title": "Green Horizon: Campus Miyawaki Urban Forest Planting",
+      "description": "Help build our campus micro-forest! In collaboration with the Science & Humanities Department and Eco-Warriors, we are planting 600 native trees using the rapid-growth Miyawaki technique. Volunteers will participate in soil preparation, sapling planting, mulching, bio-tagging, and irrigation setup.",
+      "category": "Environment & Sustainability",
+      "organizer": {
+        "name": "Prof. Sunita Rao",
+        "club": "Eco Warriors & Green Club",
+        "email": "ecowarriors@svecw.edu.in",
+        "phone": "+91 97890 23456",
+        "avatar": "/avatars/sahithi.jpg"
+      },
+      "date": "2026-10-28",
+      "time": "07:00 AM - 11:30 AM",
+      "location": {
+        "venue": "North Campus Arboretum & Lake Boundary",
+        "landmark": "Near Solar Farm Gate 3, SVECW",
+        "isOnline": false
+      },
+      "hoursCredit": 4,
+      "requiredVolunteers": 35,
+      "registeredCount": 31,
+      "skillsRequired": [
+        "Gardening / Field Work",
+        "Teamwork",
+        "Physical Stamina"
+      ],
+      "benefits": [
+        "Eco-Warrior Badge",
+        "4 Service Hours",
+        "Seedling Gift Hamper",
+        "Fresh Juice & Snacks"
+      ],
+      "status": "Upcoming",
+      "bannerImage": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=1000&auto=format&fit=crop&q=80",
+      "isUrgent": false,
+      "isFeatured": true
+    },
+    {
+      "_id": "670a1a01b5f1010101010103",
+      "title": "TechEmpower: Python & Logic Workshop for Govt School Girls",
+      "description": "Democratize computer science education! Student volunteers will mentor 8th-10th grade girl students from nearby municipal high schools. Teach fundamentals of computational thinking, Scratch animations, and simple Python turtle games in our campus computer labs.",
+      "category": "Education & Mentoring",
+      "organizer": {
+        "name": "Sahithi Varma (Student Lead)",
+        "club": "ACM & IEEE SVECW Student Chapters",
+        "email": "acm.empower@svecw.edu.in",
+        "phone": "+91 98412 34567",
+        "avatar": "/avatars/sahithi.jpg"
+      },
+      "date": "2026-11-02",
+      "time": "09:30 AM - 02:30 PM",
+      "location": {
+        "venue": "Turing Computing Complex (Lab 3 & 4)",
+        "landmark": "CSE Department 2nd Floor, SVECW",
+        "isOnline": false
+      },
+      "hoursCredit": 5,
+      "requiredVolunteers": 25,
+      "registeredCount": 19,
+      "skillsRequired": [
+        "Basic Python",
+        "Patience & Mentoring",
+        "Communication",
+        "Empathy"
+      ],
+      "benefits": [
+        "STEM Mentorship Certificate",
+        "5 Service Hours",
+        "Lab Lunch Box",
+        "Recommendation Letter for Placement Portfolio"
+      ],
+      "status": "Upcoming",
+      "bannerImage": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1000&auto=format&fit=crop&q=80",
+      "isUrgent": false,
+      "isFeatured": true
+    },
+    {
+      "_id": "670a1a01b5f1010101010104",
+      "title": "Coastal Care & Godavari River Canal Clean-up Drive",
+      "description": "Join hands with local environmentalists to clean and audit plastic debris along Godavari canal banks near Bhimavaram. Collect, segregate, and log plastic waste brands to support our university's rural environmental health study.",
+      "category": "Environment & Sustainability",
+      "organizer": {
+        "name": "Sneha Reddy & Green Wing",
+        "club": "Rotaract Youth Club SVECW",
+        "email": "rotaract@svecw.edu.in",
+        "phone": "+91 99620 45678",
+        "avatar": "/avatars/sneha.jpg"
+      },
+      "date": "2026-11-08",
+      "time": "06:30 AM - 10:30 AM",
+      "location": {
+        "venue": "Bhimavaram Canal Promenade & Outskirts",
+        "landmark": "College Bus Pickup from SVECW Main Gate at 06:00 AM",
+        "isOnline": false
+      },
+      "hoursCredit": 4,
+      "requiredVolunteers": 40,
+      "registeredCount": 28,
+      "skillsRequired": [
+        "Waste Segregation",
+        "Field Resilience",
+        "Enthusiasm"
+      ],
+      "benefits": [
+        "Clean Earth Defender Badge",
+        "4 Service Hours",
+        "Breakfast on Site",
+        "Free College Bus Transit"
+      ],
+      "status": "Upcoming",
+      "bannerImage": "https://images.unsplash.com/photo-1618477461853-cf6ed80faba5?w=1000&auto=format&fit=crop&q=80",
+      "isUrgent": false,
+      "isFeatured": false
+    },
+    {
+      "_id": "670a1a01b5f1010101010105",
+      "title": "Inter-College Fest 'Sankalp 2026': Volunteer Crew",
+      "description": "Be the driving force behind our annual women's technical and cultural symposium! Volunteer teams oversee stage logistics, guest reception, crowd safety, media coverage, and technical desk support throughout the campus celebrations.",
+      "category": "Campus & Cultural Support",
+      "organizer": {
+        "name": "Dr. K. Ramesh Babu (NSS Coordinator)",
+        "club": "Student Activity Council (SAC)",
+        "email": "fest.volunteers@svecw.edu.in",
+        "phone": "+91 94401 55678",
+        "avatar": "/avatars/ramesh.jpg"
+      },
+      "date": "2026-11-14",
+      "time": "08:00 AM - 05:00 PM",
+      "location": {
+        "venue": "SVECW Open Air Amphitheatre & Central Quadrangle",
+        "landmark": "Opposite Library",
+        "isOnline": false
+      },
+      "hoursCredit": 8,
+      "requiredVolunteers": 70,
+      "registeredCount": 62,
+      "skillsRequired": [
+        "Event Coordination",
+        "Crowd Management",
+        "Problem Solving",
+        "Energy & Hospitality"
+      ],
+      "benefits": [
+        "Exclusive Crew Polo Jersey",
+        "8 Service Hours",
+        "All-Access Pass to Fest Pro-Nite",
+        "Meals Included"
+      ],
+      "status": "Upcoming",
+      "bannerImage": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=1000&auto=format&fit=crop&q=80",
+      "isUrgent": true,
+      "isFeatured": true
+    },
+    {
+      "_id": "670a1a01b5f1010101010106",
+      "title": "Audiobook Recording & Digital Learning for Visually Impaired",
+      "description": "Support our campus Accessible Learning Initiative. Volunteers will read aloud and record Telugu and English academic textbooks and notes in audio format, proofread digitized material, and assist students with disabilities in library study hours.",
+      "category": "Community & Social Welfare",
+      "organizer": {
+        "name": "Divya Sri (Inclusivity Lead)",
+        "club": "Central Library Equal Opportunity Cell",
+        "email": "equalaccess@svecw.edu.in",
+        "phone": "+91 97911 67890",
+        "avatar": "/avatars/divya.jpg"
+      },
+      "date": "2026-11-18",
+      "time": "10:00 AM - 02:00 PM",
+      "location": {
+        "venue": "Central Library Digital Media Lab (Floor 1)",
+        "landmark": "SVECW Central Library Sound Studio",
+        "isOnline": false
+      },
+      "hoursCredit": 4,
+      "requiredVolunteers": 20,
+      "registeredCount": 15,
+      "skillsRequired": [
+        "Clear Voice / Diction",
+        "Telugu / English Fluency",
+        "Basic Audio Recording"
+      ],
+      "benefits": [
+        "Inclusivity Pioneer Award",
+        "4 Service Hours",
+        "Studio Experience",
+        "Certificate of Merit"
+      ],
+      "status": "Upcoming",
+      "bannerImage": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=1000&auto=format&fit=crop&q=80",
+      "isUrgent": false,
+      "isFeatured": false
+    },
+    {
+      "_id": "670a1a01b5f1010101010107",
+      "title": "Campus Paws: Stray Welfare, Deworming & Vaccination Day",
+      "description": "Ensuring health and safety on campus! Under the guidance of our faculty advisor and licensed veterinary doctors, volunteers will assist during rabies vaccination and nutrition feeding drives for campus rescue animals.",
+      "category": "Animal Welfare",
+      "organizer": {
+        "name": "Dr. V. Suresh Kumar (Faculty In-Charge)",
+        "club": "Paws & Whiskers Campus Welfare Club",
+        "email": "pawsclub@svecw.edu.in",
+        "phone": "+91 98845 78901",
+        "avatar": "/avatars/ramesh.jpg"
+      },
+      "date": "2026-11-22",
+      "time": "08:00 AM - 12:00 PM",
+      "location": {
+        "venue": "Sports Complex Periphery & Hostels Quad",
+        "landmark": "Near Gymnasium Lawns, SVECW",
+        "isOnline": false
+      },
+      "hoursCredit": 4,
+      "requiredVolunteers": 18,
+      "registeredCount": 14,
+      "skillsRequired": [
+        "Animal Friendly",
+        "Gentle Handling",
+        "Empathy"
+      ],
+      "benefits": [
+        "Animal Guardian Badge",
+        "4 Service Hours",
+        "Snacks & Refreshments"
+      ],
+      "status": "Upcoming",
+      "bannerImage": "https://images.unsplash.com/photo-1548767797-d8c844163c4c?w=1000&auto=format&fit=crop&q=80",
+      "isUrgent": false,
+      "isFeatured": false
+    },
+    {
+      "_id": "670a1a01b5f10101010108",
+      "title": "Winter Care & Smiles: Elderly Community Home Outreach",
+      "description": "Spend a heartfelt day with senior citizens at the local Karuna Bhavan Senior Home in Bhimavaram. Volunteers will organize musical performances, serve lunch, distribute woolen stoles and care packages, and share joyful memories with residents.",
+      "category": "Community & Social Welfare",
+      "organizer": {
+        "name": "Chandana & Social Harmony Wing",
+        "club": "Social Action & Harmony Wing",
+        "email": "karuna.outreach@svecw.edu.in",
+        "phone": "+91 97100 89012",
+        "avatar": "/avatars/chandana.jpg"
+      },
+      "date": "2026-11-29",
+      "time": "09:00 AM - 02:00 PM",
+      "location": {
+        "venue": "Karuna Bhavan Senior Care Home, Bhimavaram",
+        "landmark": "College Bus leaves from Admin Circle at 08:30 AM",
+        "isOnline": false
+      },
+      "hoursCredit": 5,
+      "requiredVolunteers": 25,
+      "registeredCount": 22,
+      "skillsRequired": [
+        "Empathy",
+        "Music / Entertainment",
+        "Storytelling",
+        "Active Listening"
+      ],
+      "benefits": [
+        "Community Compassion Award",
+        "5 Service Hours",
+        "Lunch with Elders",
+        "Certificate"
+      ],
+      "status": "Upcoming",
+      "bannerImage": "https://images.unsplash.com/photo-1516307365426-bea591f05011?w=1000&auto=format&fit=crop&q=80",
+      "isUrgent": false,
+      "isFeatured": false
+    }
+  ],
+  "volunteers": [
+    {
+      "_id": "670a2b02b5f2020202020203",
+      "name": "Sahithi Varma",
+      "email": "sahithi.21b@svecw.edu.in",
+      "rollNumber": "21B01A0588",
+      "department": "Computer Science & Engineering",
+      "year": "4th Year B.Tech",
+      "phone": "+91 99623 55667",
+      "avatar": "/avatars/sahithi.jpg",
+      "skills": [
+        "Logistics",
+        "Emergency Response",
+        "Event Leadership",
+        "Team Captaincy"
+      ],
+      "bio": "Final year B.Tech student and Student Coordinator for SVECW Youth Red Cross & NSS Volunteer Wing.",
+      "totalHours": 48,
+      "karmaPoints": 720,
+      "role": "coordinator",
+      "designation": "Student Lead",
+      "badges": [
+        {
+          "id": "b1",
+          "name": "First Step",
+          "description": "Successfully attended first campus drive",
+          "icon": "🌱",
+          "awardedAt": "2024-09-10"
+        },
+        {
+          "id": "b2",
+          "name": "Green Hero",
+          "description": "Planted 50+ trees and protected campus green cover",
+          "icon": "🌳",
+          "awardedAt": "2025-03-22"
+        },
+        {
+          "id": "b3",
+          "name": "Health Lifesaver",
+          "description": "Assisted in 2+ major blood donation camps",
+          "icon": "🩸",
+          "awardedAt": "2025-10-05"
+        },
+        {
+          "id": "b6",
+          "name": "Gold Luminary",
+          "description": "Completed over 45 hours of community service",
+          "icon": "🥇",
+          "awardedAt": "2026-07-28"
+        }
+      ]
+    },
+    {
+      "_id": "670a2b02b5f2020202020207",
+      "name": "Dr. K. Ramesh Babu",
+      "email": "rameshbabu.nss@svecw.edu.in",
+      "rollNumber": "FAC-NSS01",
+      "department": "NSS Cell & Student Affairs",
+      "year": "Professor & Program Officer",
+      "phone": "+91 94401 55678",
+      "avatar": "/avatars/ramesh.jpg",
+      "skills": [
+        "Campus Administration",
+        "Disaster Preparedness",
+        "NSS Lead Officer",
+        "Community Mentorship"
+      ],
+      "bio": "NSS Program Officer & Senior Faculty Coordinator at SVECW. Overseeing institutional social responsibility, medical blood drives, and rural outreach.",
+      "totalHours": 50,
+      "karmaPoints": 850,
+      "role": "coordinator",
+      "designation": "Faculty Coordinator",
+      "badges": [
+        {
+          "id": "b10",
+          "name": "Distinguished Mentor",
+          "description": "Mentored over 500+ student volunteers at SVECW",
+          "icon": "🎖️",
+          "awardedAt": "2024-01-26"
+        },
+        {
+          "id": "b2",
+          "name": "Green Hero",
+          "description": "Spearheaded campus green cover and Miyawaki forest",
+          "icon": "🌳",
+          "awardedAt": "2024-08-15"
+        },
+        {
+          "id": "b6",
+          "name": "Gold Luminary",
+          "description": "Recognized by Red Cross for outstanding campus blood donation organization",
+          "icon": "🥇",
+          "awardedAt": "2025-10-02"
+        }
+      ]
+    },
+    {
+      "_id": "670a2b02b5f2020202020201",
+      "name": "Sravani Chowdary",
+      "email": "sravani.22b@svecw.edu.in",
+      "rollNumber": "22B01A0545",
+      "department": "Computer Science & Engineering",
+      "year": "3rd Year B.Tech",
+      "phone": "+91 98480 11223",
+      "avatar": "/avatars/sravani.jpg",
+      "skills": [
+        "First Aid Support",
+        "Python Mentoring",
+        "Crowd Coordination",
+        "Photography"
+      ],
+      "bio": "Passionate about leveraging technology and youth power to solve real community challenges. Active SVECW NSS volunteer.",
+      "totalHours": 36,
+      "karmaPoints": 520,
+      "role": "student",
+      "badges": [
+        {
+          "id": "b1",
+          "name": "First Step",
+          "description": "Successfully attended first campus drive",
+          "icon": "🌱",
+          "awardedAt": "2025-08-15"
+        },
+        {
+          "id": "b2",
+          "name": "Green Hero",
+          "description": "Planted 50+ trees and protected campus green cover",
+          "icon": "🌳",
+          "awardedAt": "2025-11-20"
+        },
+        {
+          "id": "b3",
+          "name": "Health Lifesaver",
+          "description": "Assisted in 2+ major blood donation camps",
+          "icon": "🩸",
+          "awardedAt": "2026-02-10"
+        },
+        {
+          "id": "b4",
+          "name": "Silver Impact Champion",
+          "description": "Surpassed 30 verified public service hours",
+          "icon": "🥈",
+          "awardedAt": "2026-09-05"
+        }
+      ]
+    },
+    {
+      "_id": "670a2b02b5f2020202020202",
+      "name": "Divya Sri",
+      "email": "divyasri.22b@svecw.edu.in",
+      "rollNumber": "22B01A0412",
+      "department": "Electronics & Communication",
+      "year": "3rd Year B.Tech",
+      "phone": "+91 97891 33445",
+      "avatar": "/avatars/divya.jpg",
+      "skills": [
+        "STEM Mentoring",
+        "Event Anchoring",
+        "First Aid",
+        "Design"
+      ],
+      "bio": "Believer in continuous empathy. Leading peer tutoring initiatives and educational outreach for school children around Bhimavaram.",
+      "totalHours": 29,
+      "karmaPoints": 410,
+      "role": "student",
+      "badges": [
+        {
+          "id": "b1",
+          "name": "First Step",
+          "description": "Successfully attended first campus drive",
+          "icon": "🌱",
+          "awardedAt": "2025-09-02"
+        },
+        {
+          "id": "b5",
+          "name": "Knowledge Beacon",
+          "description": "Mentored school students in STEM",
+          "icon": "📘",
+          "awardedAt": "2026-01-18"
+        },
+        {
+          "id": "b4",
+          "name": "Silver Impact Champion",
+          "description": "Surpassed 25 verified public service hours",
+          "icon": "🥈",
+          "awardedAt": "2026-08-12"
+        }
+      ]
+    },
+    {
+      "_id": "670a2b02b5f2020202020206",
+      "name": "Sneha Reddy",
+      "email": "sneha.23b@svecw.edu.in",
+      "rollNumber": "23B01A0119",
+      "department": "Civil Engineering",
+      "year": "2nd Year B.Tech",
+      "phone": "+91 99401 22334",
+      "avatar": "/avatars/sneha.jpg",
+      "skills": [
+        "Surveying",
+        "Disaster Drill Logistics",
+        "Eco Sanitation"
+      ],
+      "bio": "Focusing on sustainable civil infrastructure and civic hygiene. Enthusiastic tree plantation volunteer at SVECW.",
+      "totalHours": 24,
+      "karmaPoints": 340,
+      "role": "student",
+      "badges": [
+        {
+          "id": "b1",
+          "name": "First Step",
+          "description": "Successfully attended first campus drive",
+          "icon": "🌱",
+          "awardedAt": "2025-10-25"
+        },
+        {
+          "id": "b2",
+          "name": "Green Hero",
+          "description": "Planted 50+ trees and protected campus green cover",
+          "icon": "🌳",
+          "awardedAt": "2026-02-15"
+        }
+      ]
+    },
+    {
+      "_id": "670a2b02b5f2020202020204",
+      "name": "Ananya Rao",
+      "email": "ananya.23b@svecw.edu.in",
+      "rollNumber": "23B01A0404",
+      "department": "Biotechnology & ECE",
+      "year": "2nd Year B.Tech",
+      "phone": "+91 98410 77889",
+      "avatar": "/avatars/ananya.jpg",
+      "skills": [
+        "Animal Care",
+        "Environmental Sampling",
+        "Content Writing"
+      ],
+      "bio": "Passionate about animal rescue and biodiversity conservation. Volunteer with Campus Paws and Green Club.",
+      "totalHours": 22,
+      "karmaPoints": 310,
+      "role": "student",
+      "badges": [
+        {
+          "id": "b1",
+          "name": "First Step",
+          "description": "Successfully attended first campus drive",
+          "icon": "🌱",
+          "awardedAt": "2025-10-14"
+        },
+        {
+          "id": "b7",
+          "name": "Paws Protector",
+          "description": "Championed campus animal vaccinations",
+          "icon": "🐾",
+          "awardedAt": "2026-03-01"
+        },
+        {
+          "id": "b8",
+          "name": "Bronze Contributor",
+          "description": "Completed 20 service hours",
+          "icon": "🥉",
+          "awardedAt": "2026-09-18"
+        }
+      ]
+    },
+    {
+      "_id": "670a2b02b5f2020202020205",
+      "name": "Keerthi Priya",
+      "email": "keerthi.22b@svecw.edu.in",
+      "rollNumber": "22B01A1231",
+      "department": "Information Technology",
+      "year": "3rd Year B.Tech",
+      "phone": "+91 97105 88990",
+      "avatar": "/avatars/keerthi.jpg",
+      "skills": [
+        "Web Tech",
+        "Audio Recording",
+        "Accessibility Tools"
+      ],
+      "bio": "Advocating for inclusive campus infrastructure. Working closely with Central Library Audio and Braille digitization.",
+      "totalHours": 18,
+      "karmaPoints": 260,
+      "role": "student",
+      "badges": [
+        {
+          "id": "b1",
+          "name": "First Step",
+          "description": "Successfully attended first campus drive",
+          "icon": "🌱",
+          "awardedAt": "2025-11-05"
+        },
+        {
+          "id": "b9",
+          "name": "Inclusivity Champion",
+          "description": "Supported accessible education drives",
+          "icon": "🎙️",
+          "awardedAt": "2026-04-12"
+        }
+      ]
+    },
+    {
+      "_id": "vol_mv4ypdq9",
+      "rollNumber": "23B01A05A1",
+      "totalHours": 12,
+      "karmaPoints": 160,
+      "badges": [
+        {
+          "id": "b1",
+          "name": "First Step",
+          "description": "Joined VolunteerHub campus network",
+          "icon": "🌱",
+          "awardedAt": "2026-10-12T08:00:18.369Z"
+        }
+      ],
+      "role": "coordinator",
+      "designation": "Student Lead",
+      "avatar": "/avatars/divya.jpg",
+      "name": "Akshaya",
+      "email": "akshaya@svecw.edu.in",
+      "department": "Computer Science & Engineering",
+      "year": "3rd Year B.Tech",
+      "skills": [
+        "Community Engagement",
+        "NSS Volunteer"
+      ],
+      "bio": "Student Coordinator at Shri Vishnu Engineering College for Women (SVECW).",
+      "createdAt": "2026-10-12T08:00:18.369Z"
+    },
+    {
+      "_id": "vol_mv4uo3cw",
+      "rollNumber": "24B01A1288",
+      "totalHours": 10,
+      "karmaPoints": 150,
+      "badges": [
+        {
+          "id": "b1",
+          "name": "First Step",
+          "description": "Registered on SVECW VolunteerHub Network",
+          "icon": "🌱",
+          "awardedAt": "2026-10-12T06:07:19.808Z"
+        }
+      ],
+      "role": "student",
+      "avatar": "/avatars/kavitha.jpg",
+      "name": "Kavitha Reddy",
+      "email": "kavitha.24b@svecw.edu.in",
+      "password": "svecw@password123",
+      "department": "Computer Science & Engineering (CSE)",
+      "year": "2nd Year B.Tech",
+      "phone": "+91 98480 11223",
+      "skills": [
+        "Community Outreach",
+        "Blood Donation Support"
+      ],
+      "bio": "Proud student volunteer at Shri Vishnu Engineering College for Women (SVECW), Computer Science & Engineering (CSE).",
+      "createdAt": "2026-10-12T06:07:19.808Z"
+    },
+    {
+      "_id": "vol_mv4yntyz",
+      "rollNumber": "24B01A1292",
+      "totalHours": 8,
+      "karmaPoints": 120,
+      "badges": [
+        {
+          "id": "b1",
+          "name": "First Step",
+          "description": "Registered on SVECW VolunteerHub Network",
+          "icon": "🌱",
+          "awardedAt": "2026-10-12T07:59:06.104Z"
+        }
+      ],
+      "role": "student",
+      "avatar": "/avatars/chandana.jpg",
+      "name": "Chandana",
+      "email": "24b01a1292@svecw.edu.in",
+      "password": "1234",
+      "department": "Information Technology (IT)",
+      "year": "3rd Year B.Tech",
+      "phone": "9978542135",
+      "skills": [
+        "Community Outreach",
+        "School Teaching & Mentoring",
+        "Event Coordination & Anchoring",
+        "Photography & Media",
+        "Animal Welfare",
+        "Blood Donation Support",
+        "Tree Planting & Environment",
+        "First Aid & Health"
+      ],
+      "bio": "Student volunteer at Shri Vishnu Engineering College for Women (SVECW), Information Technology (IT).",
+      "createdAt": "2026-10-12T07:59:06.107Z"
+    }
+  ],
+  "registrations": [
+    {
+      "_id": "670a3c03b5f3030303030301",
+      "eventId": "670a1a01b5f1010101010101",
+      "eventTitle": "Annual Mega Blood Donation & Platelet Drive",
+      "eventDate": "2026-10-24",
+      "volunteerId": "670a2b02b5f2020202020201",
+      "studentName": "Sravani Chowdary",
+      "studentEmail": "sravani.22b@svecw.edu.in",
+      "studentRoll": "22B01A0545",
+      "studentDept": "Computer Science & Engineering",
+      "phone": "+91 98480 11223",
+      "status": "Registered",
+      "hoursAwarded": 0,
+      "certificateCode": "VH-2026-CERT-9042",
+      "feedback": "",
+      "dietaryOrEmergencyNotes": "Vegetarian breakfast. Trained in donor triage."
+    },
+    {
+      "_id": "670a3c03b5f3030303030302",
+      "eventId": "670a1a01b5f1010101010102",
+      "eventTitle": "Green Horizon: Campus Miyawaki Urban Forest Planting",
+      "eventDate": "2026-10-28",
+      "volunteerId": "670a2b02b5f2020202020201",
+      "studentName": "Sravani Chowdary",
+      "studentEmail": "sravani.22b@svecw.edu.in",
+      "studentRoll": "22B01A0545",
+      "studentDept": "Computer Science & Engineering",
+      "phone": "+91 98480 11223",
+      "status": "Registered",
+      "hoursAwarded": 0,
+      "certificateCode": "VH-2026-CERT-8812",
+      "feedback": "",
+      "dietaryOrEmergencyNotes": "Will bring work gloves."
+    },
+    {
+      "_id": "670a3c03b5f3030303030303",
+      "eventId": "670a1a01b5f1010101010103",
+      "eventTitle": "TechEmpower: Python & Logic Workshop for Govt School Girls",
+      "eventDate": "2026-11-02",
+      "volunteerId": "670a2b02b5f2020202020202",
+      "studentName": "Divya Sri",
+      "studentEmail": "divyasri.22b@svecw.edu.in",
+      "studentRoll": "22B01A0412",
+      "studentDept": "Electronics & Communication",
+      "phone": "+91 97891 33445",
+      "status": "Registered",
+      "hoursAwarded": 0,
+      "certificateCode": "VH-2026-CERT-7419",
+      "feedback": "",
+      "dietaryOrEmergencyNotes": "Will guide kids in Scratch game building."
+    },
+    {
+      "_id": "670a3c03b5f3030303030304",
+      "eventId": "670a1a01b5f1010101010105",
+      "eventTitle": "Inter-College Fest 'Sankalp 2026': Volunteer Crew",
+      "eventDate": "2026-11-14",
+      "volunteerId": "670a2b02b5f2020202020203",
+      "studentName": "Sahithi Varma",
+      "studentEmail": "sahithi.21b@svecw.edu.in",
+      "studentRoll": "21B01A0588",
+      "studentDept": "Computer Science & Engineering",
+      "phone": "+91 99623 55667",
+      "status": "Registered",
+      "hoursAwarded": 0,
+      "certificateCode": "VH-2026-CERT-6021",
+      "feedback": "",
+      "dietaryOrEmergencyNotes": "Stage logistics & emergency coordination desk."
+    },
+    {
+      "_id": "670a3c03b5f3030303030305",
+      "eventId": "670a1a01b5f1010101010101",
+      "eventTitle": "Annual Mega Blood Donation & Platelet Drive",
+      "eventDate": "2026-10-24",
+      "volunteerId": "670a2b02b5f2020202020204",
+      "studentName": "Ananya Rao",
+      "studentEmail": "ananya.23b@svecw.edu.in",
+      "studentRoll": "23B01A0404",
+      "studentDept": "Biotechnology & ECE",
+      "phone": "+91 98410 77889",
+      "status": "Registered",
+      "hoursAwarded": 0,
+      "certificateCode": "VH-2026-CERT-5192",
+      "feedback": "",
+      "dietaryOrEmergencyNotes": ""
+    },
+    {
+      "_id": "reg_mv4yoin29vsi",
+      "eventId": "670a1a01b5f1010101010104",
+      "eventTitle": "Coastal Care & Godavari River Canal Clean-up Drive",
+      "eventDate": "2026-11-08",
+      "studentName": "Chandana",
+      "studentEmail": "24b01a1292@svecw.edu.in",
+      "studentRoll": "24B01A1292",
+      "studentDept": "Information Technology (IT)",
+      "phone": "9978542135",
+      "status": "Registered",
+      "certificateCode": "VH-2026-CERT-3994",
+      "dietaryOrEmergencyNotes": "",
+      "createdAt": "2026-10-12T07:59:38.078Z"
+    },
+    {
+      "_id": "reg_mv4yu5sgyjux",
+      "eventId": "evt_mv4yr50no10z",
+      "eventTitle": "FSD  Hackthon",
+      "eventDate": "2026-11-25",
+      "studentName": "Chandana",
+      "studentEmail": "24b01a1292@svecw.edu.in",
+      "studentRoll": "24B01A1292",
+      "studentDept": "Information Technology (IT)",
+      "phone": "9978542135",
+      "status": "Registered",
+      "certificateCode": "VH-2026-CERT-6066",
+      "dietaryOrEmergencyNotes": "",
+      "createdAt": "2026-10-12T08:04:01.361Z"
+    }
+  ],
+  "announcements": [
+    {
+      "_id": "670a4d04b5f4040404040401",
+      "title": "Urgent: 10 Additional Volunteer Slots for Blood Drive",
+      "content": "Due to high donor turnout expected from SVECW alumnae and faculty, Red Cross Unit requires 10 more student volunteers for the afternoon shift (12:00 PM - 03:00 PM). Free T-shirts and lunch tokens are ready for pickup!",
+      "priority": "Urgent",
+      "clubOrWing": "Youth Red Cross & NSS Unit",
+      "author": "Dr. Arvind Swaminathan (Faculty Coordinator)",
+      "linkEventId": "670a1a01b5f1010101010101",
+      "pinned": true,
+      "createdAt": "2026-10-12T08:00:00.000Z"
+    },
+    {
+      "_id": "670a4d04b5f4040404040402",
+      "title": "Eco-Warriors Green Drive: Sapling Collection Point Announced",
+      "content": "All registered volunteers for the Miyawaki Micro-Forest drive on Oct 28th should assemble at SVECW North Gate Nursery by 06:45 AM. Gardening gloves and water flasks are advised.",
+      "priority": "Important",
+      "clubOrWing": "Eco Warriors & Green Club",
+      "author": "Prof. Sunita Rao (Eco Club In-Charge)",
+      "linkEventId": "670a1a01b5f1010101010102",
+      "pinned": true,
+      "createdAt": "2026-10-11T14:30:00.000Z"
+    },
+    {
+      "_id": "670a4d04b5f4040404040403",
+      "title": "Principal & Dean's Service Honors: Verify Logged Hours Before Oct 30",
+      "content": "Students qualifying for the SVECW Gold, Silver, and Bronze Volunteering Medals for the academic semester must check their digital certificates and report any uncredited hours to the NSS cell.",
+      "priority": "Highlight",
+      "clubOrWing": "NSS Cell & Student Welfare",
+      "author": "Dr. K. Ramesh Babu (NSS Program Officer)",
+      "linkEventId": "",
+      "pinned": false,
+      "createdAt": "2026-10-10T11:15:00.000Z"
+    }
+  ]
+}
